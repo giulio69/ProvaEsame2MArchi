@@ -1,2 +1,2 @@
 run App.java
-use the cmd command "curl -X GET http://localhost:8080/?" followed by the command
+use the cmd command "curl http://localhost:1234/?all"
